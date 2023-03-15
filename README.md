@@ -6,9 +6,7 @@
 
 ## Feature
 
-- Home Page
-- Detail Page
-- Favorite Page
+- UI Table money exchange
 
 ## Built With
 

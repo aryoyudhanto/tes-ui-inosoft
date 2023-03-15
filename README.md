@@ -1,4 +1,4 @@
-<h1 align="center">PICTURE LIST PROJECT</h1>
+<h1 align="center">Tes UI Inosoft</h1>
 
 ## Deployment
 

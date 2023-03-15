@@ -1,8 +1,12 @@
 import React from 'react'
 
+import Layout from '../components/Layout'
+
 const index = () => {
   return (
-    <div className='text-7xl text-red-500'>index</div>
+    <Layout>
+
+    </Layout>
   )
 }
 

@@ -208,7 +208,7 @@ const index = () => {
       <div className="h-96 mx-14 my-5">
         <div className="flex justify-start items-center">
           <p className="mr-2">Exchange Rate 1 USD = </p>
-          <input type="text" className="input input-bordered w-20 h-10"/>
+          <input type="number" className="input input-bordered w-24 h-10"/>
           <p className="ml-2">AED</p>
         </div>
         <br />
